@@ -1,0 +1,11 @@
+{
+  "image_dpi": 200,
+  "jpeg_quality": 90,
+  "webp_quality": 85,
+  "ffmpeg_preset": "medium",
+  "ffmpeg_crf": 23,
+  "audio_bitrate": "192k",
+  "ffmpeg_path": "",
+  "soffice_path": "",
+  "auto_close_delay_ms": 1800
+}

@@ -1,0 +1,20 @@
+# Python / virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts (publish QuickConvertSetup.exe via GitHub Releases)
+build/
+dist/
+*.spec
+
+# Machine-local install manifest & logs
+installed_registry_keys.json
+*.log
+
+# Planning scratch / editor files
+implementation_plan.md
+.vscode/
+.idea/
